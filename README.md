@@ -10,11 +10,11 @@ O problema que resolve é simples e comum em qualquer operação com estoque fí
 
 **Dashboard (Looker Studio)** — visão geral de SKUs, valor em estoque por categoria e distribuição por status:
 
-![Dashboard de Controle de Estoque](screenshots/dashboard.png)
+![Dashboard de Controle de Estoque](fotos/dash.png)
 
 **Alerta automático por e-mail** — disparado assim que a lista de itens críticos muda:
 
-![E-mail de alerta de estoque](screenshots/email-alerta.png)
+![E-mail de alerta de estoque](fotos/email.png)
 
 ---
 
